@@ -1,2 +1,2 @@
 # SimplexMethod
-A python model to solve linear programming problems with the Simplex Method
+A python toolkit to solve linear programming problems with the Simplex Method
